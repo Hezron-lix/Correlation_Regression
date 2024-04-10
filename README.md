@@ -59,6 +59,7 @@ plt.legend(['Regression Line','Data points'])
 ```
 
 # Output 
+![image](https://github.com/Hezron-lix/Correlation_Regression/assets/139331337/e0985bb4-8282-47f9-93f4-6ef561c627de)
 
 # Result
-
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
